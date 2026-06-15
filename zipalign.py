@@ -1,8 +1,10 @@
-import struct
-import argparse
-
+#!/usr/bin/python3
+# encoding: utf-8
 # Copyright (c) 2026 Luan Pestana
 # SPDX-License-Identifier: MIT
+
+import struct
+import argparse
 
 # Estrutura Zip, cada arquivo comeca com o tamanho fixo de 30 bytes de informacoes (chamados de Local Header), seguido respectivamente do nome, do Extra Field, dos dados do arquivo, e por fim do Post Data (dados ou informacoes que vem depois dos dados do arquivo mas antes da proxima estrutura), cada arquico tem necessariamente um Local Header e um Central Directory ao final dos Local Headers
 #	[Local Header] [tamanho fixo de 30 bytes de informacoes]
