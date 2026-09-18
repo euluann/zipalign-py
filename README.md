@@ -2,7 +2,7 @@
 
 **A passionate backend developer from Brazil**  
 
-🔹 Experienced in **Python** and **C**.  
+🔹 Experienced in **Python**, **C** and **Assembly**.
 🔹 I love **recreating games** and implementing **algorithms**.  
 
 ---
