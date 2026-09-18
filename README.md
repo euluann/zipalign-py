@@ -16,8 +16,8 @@ This repository contains a Python implementation of **zipalign**:
 ---
 
 ## 💻 Skills
-- **Languages:** Python, C  
-- **Other:** Android development  
+- **Languages:** Python, C, Assembly
+- **Other:** Android development, OS development
 
 ---
 
